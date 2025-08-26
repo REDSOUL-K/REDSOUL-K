@@ -9,11 +9,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjcxMm5heGNqbGh3NXMzNmNoM3ZjbXp1ZXEzanptOTFoN3Z4Mzh4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5BWx8ONNwNOwbHP0Dr/giphy.gif"  />
 
-###
+<br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -59,9 +58,11 @@
 </div>
 
 ###
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjcxMm5heGNqbGh3NXMzNmNoM3ZjbXp1ZXEzanptOTFoN3Z4Mzh4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5BWx8ONNwNOwbHP0Dr/giphy.gif"  />
+</div>
 
-<br clear="both">
+###
 
-<img src="https://raw.githubusercontent.com/REDSOUL-K/REDSOUL-K/output/snake.svg" alt="Snake animation" />
 
 ###
