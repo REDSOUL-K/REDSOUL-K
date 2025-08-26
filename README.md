@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is REDSOUL and I'm a computer science student , from VELS UNIVERSITY</h1>
+<h1 align="left">Hi 👋! My name is REDSOUL and I'm a computer science student , from ........</h1>
 
 ###
 
