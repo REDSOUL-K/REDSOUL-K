@@ -64,5 +64,6 @@
 
 ###
 
+![Spotify Now Playing](https://spotify-status.vercel.app/api/now-playing)
 
 ###
